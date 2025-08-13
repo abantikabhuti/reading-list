@@ -1,4 +1,5 @@
-# Quantum Computing Reading List
+# Reading List
+## Quantum Computing
 * [Simulating Physics with Computers - RPF](https://s2.smu.edu/~mitch/class/5395/papers/feynman-quantum-1981.pdf)
 * [Step-by-Step HHL Algorithm Walkthrough to Enhance the Understanding of Critical Quantum Computing Concepts](https://arxiv.org/abs/2108.09004)
 * [Beyond asymptotic scaling: Comparing functional quantum linear solvers](https://arxiv.org/abs/2503.21420#)
