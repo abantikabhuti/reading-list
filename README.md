@@ -8,3 +8,4 @@
 * [g-sim: Lie-algebraic classical simulations for variational quantum computing](https://pennylane.ai/qml/demos/tutorial_liesim)
 * [Shadow Hamiltonian simulation](https://pennylane.ai/qml/demos/tutorial_shadow_hamiltonian_simulation)
 * [Fixed depth Hamiltonian simulation via Cartan decomposition](https://pennylane.ai/qml/demos/tutorial_fixed_depth_hamiltonian_simulation_via_cartan_decomposition)
+* [Understanding Quantum Information and Computation](https://arxiv.org/abs/2507.11536) 
